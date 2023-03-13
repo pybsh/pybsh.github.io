@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://archive.pybsh.com/posts/</loc>
+    <lastmod>2023-03-13T22:03:20+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://archive.pybsh.com/</loc>
+    <lastmod>2023-03-13T22:03:20+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://archive.pybsh.com/tags/</loc>
+    <lastmod>2023-03-13T22:03:20+09:00</lastmod>
+  </url><url>
+    <loc>https://archive.pybsh.com/tags/test/</loc>
+    <lastmod>2023-03-13T22:03:20+09:00</lastmod>
+  </url><url>
+    <loc>https://archive.pybsh.com/posts/test/</loc>
+    <lastmod>2023-03-13T22:03:20+09:00</lastmod>
+  </url><url>
+    <loc>https://archive.pybsh.com/categories/</loc>
+  </url><url>
+    <loc>https://archive.pybsh.com/search/</loc>
   </url>
 </urlset>

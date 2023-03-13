@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
-    <link>https://examplesite.com/</link>
-    <description>Recent content on ExampleSite</description>
+    <title>pybsh archive</title>
+    <link>https://archive.pybsh.com/</link>
+    <description>Recent content on pybsh archive</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>pybsh archive</title>
+      <url>https://archive.pybsh.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://archive.pybsh.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Mar 2023 22:03:20 +0900</lastBuildDate><atom:link href="https://archive.pybsh.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>https://archive.pybsh.com/posts/test/</link>
+      <pubDate>Mon, 13 Mar 2023 22:03:20 +0900</pubDate>
+      
+      <guid>https://archive.pybsh.com/posts/test/</guid>
+      <description>Test Test Test Hello, World!</description>
+    </item>
+    
+    
   </channel>
 </rss>
