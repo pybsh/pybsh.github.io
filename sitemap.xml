@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://archive.pybsh.com/posts/</loc>
+    <loc>https://pybsh.github.io/posts/</loc>
     <lastmod>2023-03-13T22:03:20+09:00</lastmod>
   </url><url>
-    <loc>https://archive.pybsh.com/</loc>
+    <loc>https://pybsh.github.io/</loc>
     <lastmod>2023-03-13T22:03:20+09:00</lastmod>
   </url><url>
-    <loc>https://archive.pybsh.com/tags/</loc>
+    <loc>https://pybsh.github.io/tags/</loc>
     <lastmod>2023-03-13T22:03:20+09:00</lastmod>
   </url><url>
-    <loc>https://archive.pybsh.com/tags/test/</loc>
+    <loc>https://pybsh.github.io/tags/test/</loc>
     <lastmod>2023-03-13T22:03:20+09:00</lastmod>
   </url><url>
-    <loc>https://archive.pybsh.com/posts/test/</loc>
+    <loc>https://pybsh.github.io/posts/test/</loc>
     <lastmod>2023-03-13T22:03:20+09:00</lastmod>
   </url><url>
-    <loc>https://archive.pybsh.com/categories/</loc>
+    <loc>https://pybsh.github.io/categories/</loc>
   </url><url>
-    <loc>https://archive.pybsh.com/search/</loc>
+    <loc>https://pybsh.github.io/search/</loc>
   </url>
 </urlset>
