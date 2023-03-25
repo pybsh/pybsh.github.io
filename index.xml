@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>pybsh blog</title>
-    <link>https://pybsh.github.io/</link>
+    <link>https://blog.pybsh.me/</link>
     <description>Recent content on pybsh blog</description>
     <image>
       <title>pybsh blog</title>
-      <url>https://pybsh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://pybsh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.pybsh.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.pybsh.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Mar 2023 22:03:20 +0900</lastBuildDate><atom:link href="https://pybsh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 22:03:20 +0900</lastBuildDate><atom:link href="https://blog.pybsh.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
-      <link>https://pybsh.github.io/posts/test/</link>
+      <link>https://blog.pybsh.me/posts/test/</link>
       <pubDate>Mon, 13 Mar 2023 22:03:20 +0900</pubDate>
       
-      <guid>https://pybsh.github.io/posts/test/</guid>
+      <guid>https://blog.pybsh.me/posts/test/</guid>
       <description>Test Test Test Hello, World!</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://pybsh.github.io/about/</link>
+      <link>https://blog.pybsh.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pybsh.github.io/about/</guid>
+      <guid>https://blog.pybsh.me/about/</guid>
       <description>👋 Hi there! 🆎 My name is pybsh ♑ I&amp;rsquo;m 17(15) 🌏 Living in Incheon, Republic of Korea 🏫 Studying in SMC High School </description>
     </item>
     
