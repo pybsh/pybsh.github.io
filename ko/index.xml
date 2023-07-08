@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>pybsh blog</title>
-    <link>https://blog.pybsh.me/</link>
+    <link>https://blog.pybsh.me/ko/</link>
     <description>Recent content on pybsh blog</description>
     <image>
       <title>pybsh blog</title>
@@ -10,23 +10,23 @@
       <link>https://blog.pybsh.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Mar 2023 22:03:20 +0900</lastBuildDate><atom:link href="https://blog.pybsh.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 22:03:20 +0900</lastBuildDate><atom:link href="https://blog.pybsh.me/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>https://blog.pybsh.me/posts/test/</link>
+      <title>테스트 포스트</title>
+      <link>https://blog.pybsh.me/ko/posts/test/</link>
       <pubDate>Mon, 13 Mar 2023 22:03:20 +0900</pubDate>
       
-      <guid>https://blog.pybsh.me/posts/test/</guid>
-      <description>Test Test Test Hello, World!</description>
+      <guid>https://blog.pybsh.me/ko/posts/test/</guid>
+      <description>테스트 테스트 테스트 다람쥐 헌 쳇바퀴에 타고파</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://blog.pybsh.me/about/</link>
+      <link>https://blog.pybsh.me/ko/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.pybsh.me/about/</guid>
-      <description>👋 Hi there! 🆎 My name is pybsh 🌏 Living in Incheon, Republic of Korea 🏫 Studying in SMC High School </description>
+      <guid>https://blog.pybsh.me/ko/about/</guid>
+      <description>👋 안녕하세요! 🆎 pybsh 입니다. 🌏 인천광역시, 대한민국 에 거주중입니다. 🏫 세명컴퓨터고등학교 에 재학중입니다. </description>
     </item>
     
     
